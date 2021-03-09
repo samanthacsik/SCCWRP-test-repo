@@ -10,3 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 This is my first github page doc! I'm very excited!
+
+## This is my header {.tabset}
+
+### Tab1
+
+This text should appear under tab 1
+
+### Tab2
+
+This is tab 2 text
+
+I'm adding content here
